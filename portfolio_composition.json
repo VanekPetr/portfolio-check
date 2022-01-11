@@ -1,0 +1,13 @@
+{
+  "american_stocks": {
+    "TSLA": 300
+  },
+
+  "czech_stocks": {
+    "AVAST": 200
+  },
+
+  "crypto": {
+    "BTC-USD": 100
+  }
+}
